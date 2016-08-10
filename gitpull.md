@@ -11,4 +11,25 @@
 	git fecth upstream
 	/si hay cambios hacer el merge(fusion)
 	git push origin master
+git Tags
+	son como commits abanderados
+		annotated tags
+		lightweight tags
+git tag -a [version] -m  "mensaje"
+	git checkout <tag>
+tag sin mensaje
+	git [version]
+enlistar tag
+	git tag
+ancestrales
+	git tag -a [version] <commit anteior>
 
+git push origin --tags
+
+Git extras 
+	es una extension dentro de git
+Git for mac
+	syc o publish (windows)
+	se ahce un git pull y un git push
+ZenHub
+	
