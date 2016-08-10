@@ -59,3 +59,15 @@ poner un blog online con git
 		http://hanmiton.github.io/blog
 post
  	href="http://miguenieva.github.io/blog/holamundo.html"
+
+Git ignore
+	.gitignore
+		*.txt (igner todos los archivos que acaben con .txt)
+		con git status podemos verificar si se esta ignorando
+		github.com/github/gitignore (los archivs que deben ser ignorados)
+Git diff
+	comando para comaprar commits
+	git log (para ver los commits)
+
+	git diff 01..02(comparando con tags)
+
