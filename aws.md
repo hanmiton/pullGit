@@ -23,3 +23,4 @@ rm -rf html
 	borrar carpetas dentro de linux
 mkdir
 	crear carpeta
+se puede crear repositorio privados
