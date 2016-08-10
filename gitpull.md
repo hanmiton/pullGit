@@ -32,4 +32,30 @@ Git for mac
 	syc o publish (windows)
 	se ahce un git pull y un git push
 ZenHub
-	
+	Proyect Managment
+icebox
+	son ideas que se tienen
+backlog
+	lo mas importante por desarrrollar
+inProgrees
+	que se encuentran desarrollando
+reviewQA
+	revision antes de ir a master
+Done
+	que se sube a repositorio master
+Burndown
+	como tu vas ejecutnado los issues
+GitLab
+	repositorios pribados
+	sustituye los bare repositories
+	Pipelines
+		se ejecutan otros comando al hacer un push
+html5 up 
+	para descargar plantillas de html5
+poner un blog online con git
+	git checkout -b gh-pages
+	git push origin gh-pages
+	edit
+		http://hanmiton.github.io/blog
+post
+ 	href="http://miguenieva.github.io/blog/holamundo.html"
