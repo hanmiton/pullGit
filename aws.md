@@ -11,3 +11,15 @@ EC2
 			por donde se puede ingresar
 	key pairs
 		generacion de lalves ssh
+-i
+	archivo de lllave
+-l
+	para indicar el itpo servicio dentro de aws
+Aws
+	no viene instalado nada
+	sugerencia/iniciar con un proeycto lamp
+	uno tiene que armar el servidor desde 0
+rm -rf html
+	borrar carpetas dentro de linux
+mkdir
+	crear carpeta
